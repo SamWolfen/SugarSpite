@@ -7,4 +7,5 @@ global.myHealth = global.maxhealth;
 global.rage = 0;
 global.move = 0;
 global.attacking = 0;
+global.oldDelta = 0;
 

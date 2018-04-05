@@ -26,6 +26,7 @@
   </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
+    <script>scripts\scr_global_step.gml</script>
     <script>scripts\scr_global_var.gml</script>
     <scripts name="SugarSpite">
       <script>scripts\scr_sugar_var.gml</script>
